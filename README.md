@@ -72,6 +72,8 @@ Finally, we find Gaussian Naive Bayes which, despite of being the simplest algor
 The chosen method to print the results is Random Forest, since it is the best method in terms of accuracy. The data has been exported in .mat format and constitute the prediction of the type of activity performed for each of the two people who make up the test set.
 We have also represented the predictions made on the test part for the two people who make up this part, as we can see below:
 
+![](Predictions_for_person_1.PNG)
 
+![](Predictions_for_person_2.PNG)
 
-
+The most significant difference between both people is the more repeated activity, than in the case of person 1 it is ‘sitting’ and person 2 it is ‘standing’.
